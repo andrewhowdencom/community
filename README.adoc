@@ -1,0 +1,11 @@
+= README
+
+Personally, I like meeting people and find its useful to build upa  network of colleagues who are interested in
+similar problems.
+
+Given this, I'm tracking the various groups I am interested in here.
+
+See:
+
+- link:Events.adoc[Events]
+- link:Groups.adoc[Groups]
