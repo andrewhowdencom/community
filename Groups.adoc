@@ -6,3 +6,4 @@ Groups that regularly meet up in the area.
 
 - *Berlin DevOps*: https://www.meetup.com/blndevops/
 - *Papers We Love*: https://www.meetup.com/Papers-We-Love-Berlin/
+- *Cloud Native Computing Berlin*: https://www.meetup.com/Cloud-Native-Computing-Berlin/events/past/
