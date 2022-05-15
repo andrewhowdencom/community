@@ -1,0 +1,8 @@
+= Groups
+
+Groups that regularly meet up in the area.
+
+== Berlin
+
+- *Berlin DevOps*: https://www.meetup.com/blndevops/
+- *Papers We Love*: https://www.meetup.com/Papers-We-Love-Berlin/
