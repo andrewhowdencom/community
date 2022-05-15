@@ -1,0 +1,10 @@
+= Online Chats
+
+Things like "slack groups" or so.
+
+== Hangops
+
+A groups of people around the "devops" community. See:
+
+- https://twitter.com/hangops[Twitter]
+- https://signup.hangops.com/[Slack]
