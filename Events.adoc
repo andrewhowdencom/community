@@ -3,15 +3,19 @@
 Events of various kinds.
 
 == June
-=== Wednesday, 8th June: Berlin DevOps
+=== Resilience Engineering Association: Symposium (21 - 24th June)
 
-The most exciting event for Devops professionals in Berlin is back!! 
-We are planning another event to welcome spring in Berlin with some exciting talks about Devops. 
-The event would be hosted by Forto and they are excited to welcome you in person to their wonderful Headquarters. 
-We will soon announce the agenda for the evening. 
-However, we are still open for applications for talks and encourage anyone with a story to tell, to use our Google Form and apply. 
-Don't be shy, you are among friends 😀
+Whereas conventional risk management approaches are based on hindsight and emphasise error tabulation and calculation of failure probabilities, Resilience Engineering looks for ways to enhance the ability at all levels of organisations to create processes that are robust yet flexible, to monitor and revise risk models, and to use resources proactively in the face of disruptions or ongoing production and economic pressures.
 
-See:
+See
+- https://www.resilience-engineering-association.org/symposium/
 
-- https://www.meetup.com/blndevops/events/285717270/
+== Unscheduled
+===  Berlin DevOps
+
+DevOps is a movement that mainly aims for a better cooperation between operations and development and every part of your company.
+
+You can follow us on twitter @blndevops (https://twitter.com/blndevops) or drop us a mail blndevops-organizers@googlegroups.com
+
+See: 
+- https://www.meetup.com/blndevops/
